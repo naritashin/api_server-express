@@ -1,0 +1,24 @@
+{
+  "name": "api_server-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/naritashin/api_server-express.git",
+  "author": "Shin Narita <triplfjump1417@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-plugin-module-alias": "^1.6.0",
+    "babel-plugin-runtime": "^1.0.7",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "eslint": "^4.19.1",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7",
+    "pm2": "^2.10.4"
+  }
+}
