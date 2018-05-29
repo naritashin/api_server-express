@@ -20,5 +20,9 @@
     "mysql": "^2.15.0",
     "path": "^0.12.7",
     "pm2": "^2.10.4"
+  },
+  "scripts": {
+    "start": "pm2 start app.json --watch",
+    "stop": "pm2 stop APP"
   }
 }
